@@ -1,0 +1,25 @@
+@CHARSET "ISO-8859-1";
+
+div {
+	padding: 10px;
+	margin: 10px;
+	border: 1px dotted gray;
+}
+
+.table1 th{
+	padding: 10px;
+	margin: 10px;
+	border: 1px dotted gray;
+	background: bisque;
+}
+
+.table1 td{
+	padding: 10px;
+	margin: 10px;
+	border: 1px dotted gray;
+	background: white;
+}
+
+.errors{
+	color: red
+}
